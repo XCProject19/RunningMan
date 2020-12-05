@@ -1185,7 +1185,106 @@ Appearances (1):
   
   
   
-{ "title" : "Episode #350 – Global Project (4)",
+{ "title" : "Episode #340 – Member’s Week 7 – Lee Kwang Soo Special",
+  "image" : "https://i.ytimg.com/vi/g9Ie_s8ugN4/hqdefault.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/340.Mmsub.720p(rmchannel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/340%20-%20Member's%20Week%207%20-%20Lee%20Kwang%20Soo%20Special.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Location: SBS Broadcasting Center (Mok-dong, Yangcheon-gu, Seoul)\n Rating 7.4%"
+},{ "title" : "Episode #341 – Dangerous Deal",
+  "image" : "https://i.ytimg.com/vi/XyyOLoWAlWk/hqdefault.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/341.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/341%20-%20Dangerous%20Deal.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Location: Mapo District (Seoul)\n Rating 6.4 %"
+},{ "title" : "Episode #342 – Getting Item Race",
+  "image" : "https://i.ytimg.com/vi/i0GoU_fz4Bk/sddefault.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/342.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/342%20-%20Getting%20Item%20Race.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Location: Mapo District (Seoul)\n Rating 5.9%"
+},{ "title" : "Episode #343 – Gongju Tour – Couple Race",
+  "image" : "https://i.ytimg.com/vi/txe-Ir-yhzo/sddefault.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/342.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/343%20Gongju%20Tour%20-%20Couple%20Race%20part%201.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Description: (aired in two parts)"
+},{ "title" : "Episode #344 – The Secret of Runchelin",
+  "image" : "https://www.myrunningman.com/assets/epimg/344.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/344.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/344%20The%20Secret%20of%20Runchelin.mkv"}
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Location: SBS Broadcasting Center (Mok-dong, Yangcheon-gu, Seoul)"
+},{ "title" : "Episode #345 – Booking Race",
+  "image" : "https://www.myrunningman.com/assets/epimg/345.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/345%20Booking%20Race.mkv"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/345.Mmsub.720p(rm_channel).mp4"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "Location: Hyundai Motorstudio Goyang (Goyang-si, Gyeonggi-do)\nAppearances (3):\nHan Jae-suk\nSandara Park (2NE1)\nYoon Park"
+},{ "title" : "Episode #346 – Running Mate – Dangerous Room",
+  "image" : "https://www.myrunningman.com/assets/epimg/346.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/346.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/346%20Running%20Mate%20-%20Dangerous%20Room.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "This week, the members welcome two new Running Man members: Jeon So Min and Yang Se Chan. They are divided into two groups and go through different missions. Through each of these missions, they either obtain or lose a point. The member with the lowest points in total will be sent abroad to face their punishment."
+},{ "title" : "Episode #347 – The 1st Global Race Special: Japan, Taiwan, and Jeju Island",
+  "image" : "https://i1.wp.com/www.myrunningman.com/assets/epimg/347.jpg?resize=816%2C9999&ssl=1",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/347.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/347%20The%201st%20Global%20Race%20Special%20Japan,%20Taiwan,%20and%20Jeju%20Island.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "In this week’s episode of Running Man, the members are divided into three teams. Each team goes to Osaka, Taipei, and Jeju Island. However, they must finish the team and come back before the day ends. Will they be able to have a successful trip?"
+},{ "title" : "Episode #348 – The 2nd Global Race Special",
+  "image" : "https://runningmanmmsubhdvideosgroupvideo.files.wordpress.com/2019/07/running-man-ep-348-engsub6683191648408403576.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/348.Mmsub.720p(rmchannel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/348%20The%202nd%20Global%20Race%20Special.mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "This week, Hyo Lyn of Sistar visits Running Man and surprises the members. Among the members, Jong Kook is the happiest. They are divided into three groups, and a case of betrayal unfolds. Also, the members’ travel story in Osaka and Taiwan gets continued."
+},{ "title" : "Episode #349 – Global Project (3)",
+  "image" : "https://www.myrunningman.com/assets/epimg/349.jpg",
+  "year"  : "2017",
+  "links" : [
+  		{"rmtv server (720p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(301-400)/349.Mmsub.720p(rm_channel).mp4"},
+  		{"rmtv server (1080p)" : "https://rmtv.2019xproject.workers.dev/0:/Running%20Man%20(001-600)%20720p+1080p/RM%20(314-399)%201080p/349%20-%20Global%20Project%20(3).mkv"}
+  		
+  ],
+  "profile_image" : "https://banner2.cleanpng.com/20180405/fhw/kisspng-south-korea-television-show-variety-show-running-m-running-man-5ac5c68f442931.1004672715229108632792.jpg",
+   "post"  : "This week, the members continue with their Global Project that expands more than just Asia. They barge into the unsuspecting Se Chan’s house. They check out how Se Chan and his brother, Se Hyeong, live. While looking around, the members find an interesting object in his house. At his house, they do a series of missions. If the members succeed, they will be able to go home immediately. If not, two of the members will be required to wake up at 5am the next day."
+},{ "title" : "Episode #350 – Global Project (4)",
   "image" : "https://www.myrunningman.com/assets/epimg/350.jpg",
   "year"  : "2017",
   "links" : [
